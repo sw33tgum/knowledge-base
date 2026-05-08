@@ -1,6 +1,6 @@
-# Knowledge Base
+# Shared Knowledge Base
 
-This repository stores reusable project notes, benchmark reports, and shared artifacts.
+This repository stores reusable project notes, benchmark reports, and shared artifacts for GitHub-based collaboration.
 
 ## KNUMPY
 
